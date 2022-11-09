@@ -1,7 +1,7 @@
 # 101_looker_first_steps
 This is a repository to learn about looker
 
-## Table of Contents
+## Table of Contents (Udemy)
 * [Introduction](#introduction)
 * [Setting Looker Environment](#setting-looker-environment)
 * [Getting Started](#getting-started)
@@ -32,3 +32,17 @@ This is a repository to learn about looker
 * [Dashboards](#dashboards)
 * [LookML](#lookml)
 * [Looker with Git](#looker-with-git)
+
+
+## Table of Contents (Looker Connect)
+* [Data consumer](#data-consumer)
+	* [Module 1: The Looker Platform](#module-1-the-looker-platform)
+		* [What is Looker](#what-is-looker)
+		* [Looker UI walkthrough](#looker-ui-walkthrough)
+		* [Organazing content with folders](#organizing-content-with-folders)
+	* [Module 2: Data analysis building blocks](#module-2-data-analysis-building-blocks)
+		* [Dimensions in Looker](#dimensions-in-looker)
+		* [Measures in Looker](#measures-in-looker)
+		* [Using dimensions and measures](#using-dimensions-and-measures)
+		* [Filtering dimensions](#filtering-dimensions)
+		* [Filtering measures](#filtering-measures)
